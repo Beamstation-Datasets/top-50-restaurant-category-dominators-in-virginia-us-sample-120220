@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:39:50.042295+00:00 |
+| Last export | 2026-04-15T07:10:01.974430+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-virginia-us-sample-120220/releases/download/sample-latest/beamstation_120220_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
