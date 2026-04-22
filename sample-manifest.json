@@ -1,12 +1,12 @@
 {
-  "export_job_id": "11ea2d3f-3348-4b01-8988-59ad6d7535ad",
+  "export_job_id": "40d86c5d-c413-4fbd-8adc-cd80edc336f8",
   "id_short": 120220,
-  "published_at": "2026-04-19T07:44:44Z",
+  "published_at": "2026-04-22T19:14:27Z",
   "repo_name": "top-50-restaurant-category-dominators-in-virginia-us-sample-120220",
   "sample_asset_name": "beamstation_120220_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/120220/beamstation_120220_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "dc001c9f33190f63f65031ed700c6934b853ad066386bc70deadb4f6ab4c3bab",
-  "sample_size_bytes": 38740,
-  "total_records": 50
+  "sample_records": 6,
+  "sample_sha256": "6d2f2fcf5685566ca28ff5a183c40fbe92ea7948fc7e33d9dcaf7e5b926bb838",
+  "sample_size_bytes": 39218,
+  "total_records": 62
 }
